@@ -1,4 +1,4 @@
-# ppi2_experiencein
+# Projeto Experiencein
 Projeto didático desenvolvido na matéria de Programação para Internet 2 no curso de Tecnologia em Sistemas para Internet (2022/2)
 <br>
 Professor: Fábio Henrique M. Oliveira
@@ -12,15 +12,15 @@ Aluno: Lucas Freitas
 </div>   
 
 ## :construction: Status do Projeto
- - Preparação do ambiente
+Preparação do ambiente
  - [x] - 100%
 
- - Desenvolvimento 
+Desenvolvimento 
  - [X] - 0%
  - [X] - 25%
  - [] - 50%
  - [] - 75%
  - [] - 100%
 
- - Entrega
+Entrega
     :construction:
