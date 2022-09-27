@@ -13,7 +13,7 @@ Aluno: Lucas Freitas
 
 ## :construction: Status do Projeto
  - Preparação do ambiente
-    [x] - 100%
+ - [x] - 100%
 
  - Desenvolvimento 
  - [X] - 0%
