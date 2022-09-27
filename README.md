@@ -16,11 +16,11 @@ Aluno: Lucas Freitas
     [x] - 100%
 
  - Desenvolvimento 
-    [X] - 0%
-    [X] - 25%
-    [] - 50%
-    [] - 75%
-    [] - 100%
+ - [X] - 0%
+ - [X] - 25%
+ - [] - 50%
+ - [] - 75%
+ - [] - 100%
 
  - Entrega
     :construction:
