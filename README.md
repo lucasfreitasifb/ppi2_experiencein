@@ -18,9 +18,9 @@ Preparação do ambiente
 Desenvolvimento 
  - [X] - 0%
  - [X] - 25%
- - [] - 50%
- - [] - 75%
- - [] - 100%
+ - [ ] - 50%
+ - [ ] - 75%
+ - [ ] - 100%
 
 Entrega
     :construction:
