@@ -24,3 +24,20 @@ Desenvolvimento
 
 Entrega
     :construction:
+
+
+## Como executar o projeto
+Para instalar o Experiencein, siga estas etapas:
+
+Linux:
+```
+git clone https://github.com/lucasfreitasifb/ppi2_experiencein.git
+```
+
+```
+cd experiencein
+```
+
+```
+python manage.py runserver
+```
