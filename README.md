@@ -17,7 +17,6 @@ Projeto didático desenvolvido na matéria de Programação para Internet 2 no c
 
 
 # Link para a aplicação:
-**Tela de login**
 - [API REST](https://lucasfreitascj.pythonanywhere.com/)
 
 ## :construction: Status do Projeto
